@@ -6,7 +6,7 @@ attr_reader :name
   
   def intialize(name)
     @name = name
-    
+    @owner = owner
     
   end
   
