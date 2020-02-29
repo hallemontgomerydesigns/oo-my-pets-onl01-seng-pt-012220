@@ -3,9 +3,9 @@ class Cat
   
 
   
-  def intialize(name, owner)
+  def intialize(name)
     @name = name
-    @owner = owner
+    @owner =
     
   end
   
