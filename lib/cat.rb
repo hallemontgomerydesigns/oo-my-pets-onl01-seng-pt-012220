@@ -3,7 +3,7 @@ class Cat
   
   attr_accessor :name, :owner
   
-  def intialize(name, owner)
+  def intialize
     @name = name
     @owner = owner
     
